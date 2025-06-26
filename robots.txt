@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://globetreklog.github.io/sitemap.xml
+Sitemap: https://globetreklog.github.io/mylifelog/sitemap.xml
