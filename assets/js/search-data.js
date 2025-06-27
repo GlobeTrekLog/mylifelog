@@ -435,7 +435,22 @@ ninja.data = [{
             window.location.href = "/stepbystep/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-平面国-总结",
+          title: '《平面国》总结',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/stepbystep/books/2022-02-26-%E5%B9%B3%E9%9D%A2%E5%9B%BD_%E5%9F%83%E5%BE%B7%E6%B8%A9%C2%B7A%C2%B7%E8%89%BE%E5%8B%83%E7%89%B9/";
+            },},{id: "books-额尔古纳河右岸",
+          title: '《额尔古纳河右岸》',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/stepbystep/books/2022-09-11-%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3%E6%B2%B3%E5%8F%B3%E5%B2%B8_%E8%BF%9F%E5%AD%90%E5%BB%BA/";
+            },},{id: "books-臣服实验",
+          title: '《臣服实验》',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/stepbystep/books/2023-06-27-%E8%87%A3%E6%9C%8D%E5%AE%9E%E9%AA%8C_%E8%BF%88%E5%85%8B%C2%B7A.%E8%BE%9B%E6%A0%BC/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
